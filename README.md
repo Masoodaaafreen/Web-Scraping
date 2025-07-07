@@ -60,3 +60,10 @@ Execute: Run the script from your terminal:
 python scrape_quotes.py
 
 The script will then fetch the quotes from quotes.toscrape.com and print them directly to your console.
+
+**Output** 
+![WhatsApp Image 2025-07-05 at 20 12 22_e507d845](https://github.com/user-attachments/assets/fa1549be-2ada-4374-806a-1cb64ef73a85)
+
+![WhatsApp Image 2025-07-05 at 20 12 22_862373e6](https://github.com/user-attachments/assets/10a66063-6515-4733-adff-456348ae4069)
+
+![WhatsApp Image 2025-07-05 at 20 12 22_ec52b05b](https://github.com/user-attachments/assets/ccfb69a5-6e5b-48a1-9036-65340eede7f2)
